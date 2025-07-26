@@ -55,6 +55,3 @@ Likhitha
 
 📅 Date:
 July 2025
-
-📌 Note:
-This project is submitted as Task 1 for the selection process at Gokul Infocare.
